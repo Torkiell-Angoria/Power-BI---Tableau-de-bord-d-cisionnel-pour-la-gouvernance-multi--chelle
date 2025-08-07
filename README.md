@@ -27,7 +27,7 @@ Le fichier contient plusieurs vues que vous pouvez compléter :
 
 - **Vue “Performances projets”** 
 
-  ![Dashboard](https://github.com/Torkiell-Angoria/Power-BI---Tableau-de-bord-d-cisionnel-pour-la-gouvernance-multi--chelle/blob/main/img/Dashboard.gif)
+![Dashboard](https://github.com/Torkiell-Angoria/Power-BI---Tableau-de-bord-d-cisionnel-pour-la-gouvernance-multi--chelle/blob/main/img/Dashboard.gif)
   
 - **Vue “Coûts & retards”** 
   
@@ -35,7 +35,7 @@ Le fichier contient plusieurs vues que vous pouvez compléter :
   
 - **Alertes**
 
-  ![Alerte](https://github.com/Torkiell-Angoria/Power-BI---Tableau-de-bord-d-cisionnel-pour-la-gouvernance-multi--chelle/blob/main/img/Alerte.gif)
+![Alerte](https://github.com/Torkiell-Angoria/Power-BI---Tableau-de-bord-d-cisionnel-pour-la-gouvernance-multi--chelle/blob/main/img/Alerte.gif)
 
 - **Gantt - suivit projet** 
 
@@ -47,8 +47,13 @@ Le fichier contient plusieurs vues que vous pouvez compléter :
 
 
 - **Recommandations**
+  
 ![AxesStrategiques](https://github.com/Torkiell-Angoria/Power-BI---Tableau-de-bord-d-cisionnel-pour-la-gouvernance-multi--chelle/blob/main/img/Proposition%20axes%20strategiques.gif)
 
+---
+## Présentation 
+
+![presentation](https://github.com/Torkiell-Angoria/Power-BI---Tableau-de-bord-d-cisionnel-pour-la-gouvernance-multi--chelle/blob/main/img/presentation.gif)
 ---
 
 ##  Notes
